@@ -1,0 +1,636 @@
+,Series Name,Series Code,Country Name,Country Code,2008 El Acc,2009 El Acc,2010 El Acc,2011 El Acc,2012 El Acc,2013 El Acc,2014 El Acc
+0,Access to electricity (% of total population),Total Pop,Afghanistan,AFG,42.4,47.88846588,42.7,61.51441956,69.1,75.15437317,89.5
+1,Access to electricity (% of total population),Total Pop,Albania,ALB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+2,Access to electricity (% of total population),Total Pop,Algeria,DZA,99.3,99.44389343,99.71117401,99.88954163,99.9730835,99.99691772,100.0
+3,Access to electricity (% of total population),Total Pop,Andorra,ADO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+4,Access to electricity (% of total population),Total Pop,Angola,AGO,36.40599823,35.76550674,35.13201904,34.6,33.87903595,33.2560463,32.0
+5,Access to electricity (% of total population),Total Pop,Antigua and Barbuda,ATG,92.74558258,93.35009766,93.96161652,94.55201403,95.19865417,95.82067871,96.44298553
+6,Access to electricity (% of total population),Total Pop,Argentina,ARG,98.02481842,98.42118835,98.82,99.22019196,99.57305908,99.83154297,100.0
+7,Access to electricity (% of total population),Total Pop,Armenia,ARM,99.73951721,99.85289001,99.8,99.9835434,99.99794006,100.0,100.0
+8,Access to electricity (% of total population),Total Pop,Aruba,ABW,93.06408691,93.2864151,93.35629215,93.75031281,93.98838806,94.22821045,94.46832275
+9,Access to electricity (% of total population),Total Pop,Australia,AUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+10,Access to electricity (% of total population),Total Pop,Austria,AUT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+11,Access to electricity (% of total population),Total Pop,Azerbaijan,AZE,99.99606323,100.0,100.0,100.0,100.0,100.0,100.0
+12,Access to electricity (% of total population),Total Pop,"Bahamas, The",BHS,99.25509644,99.62670898,99.86366272,99.96853638,99.99661255,100.0,100.0
+13,Access to electricity (% of total population),Total Pop,Bahrain,BHR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+14,Access to electricity (% of total population),Total Pop,Bangladesh,BGD,50.03217697,52.38521576,55.26,59.6,59.47932434,61.5,62.4
+15,Access to electricity (% of total population),Total Pop,Barbados,BRB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+16,Access to electricity (% of total population),Total Pop,Belarus,BLR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+17,Access to electricity (% of total population),Total Pop,Belgium,BEL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+18,Access to electricity (% of total population),Total Pop,Belize,BLZ,88.71511841,89.32609558,89.91722437,90.56729126,91.1940155,91.82248688,92.45124817
+19,Access to electricity (% of total population),Total Pop,Benin,BEN,30.72432709,32.02407455,34.2,36.9,38.4,37.27555466,34.1
+20,Access to electricity (% of total population),Total Pop,Bermuda,BMU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+21,Access to electricity (% of total population),Total Pop,Bhutan,BTN,72.30080414,77.36448669,82.43516541,87.51110077,91.5,97.67171478,100.0
+22,Access to electricity (% of total population),Total Pop,Bolivia,BOL,84.674991,86.765597,84.49197388,88.335943,90.387375,89.505686,90.038729
+23,Access to electricity (% of total population),Total Pop,Bosnia and Herzegovina,BIH,99.91215515,99.97640991,99.99703979,100.0,100.0,100.0,100.0
+24,Access to electricity (% of total population),Total Pop,Botswana,BWA,43.1,45.89046478,48.00177383,53.24,52.23839188,54.36020279,56.48230362
+25,Access to electricity (% of total population),Total Pop,Brazil,BRA,98.526625,98.856938,99.1600647,99.328691,99.519494,99.575151,99.650247
+26,Access to electricity (% of total population),Total Pop,Brunei Darussalam,BRN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+27,Access to electricity (% of total population),Total Pop,Bulgaria,BGR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+28,Access to electricity (% of total population),Total Pop,Burkina Faso,BFA,13.81385708,14.42273808,13.1,15.65974617,16.28437614,16.91075516,19.2
+29,Access to electricity (% of total population),Total Pop,Burundi,BDI,4.8,5.588053226,5.3,6.031871319,6.5,6.489688396,7.0
+30,Access to electricity (% of total population),Total Pop,Cambodia,KHM,26.4,34.48071671,31.1,38.75318146,40.89553833,43.03964233,56.1
+31,Access to electricity (% of total population),Total Pop,Cameroon,CMR,50.70122528,51.84212875,52.9900322,53.7,55.29983139,56.45823288,56.8
+32,Access to electricity (% of total population),Total Pop,Canada,CAN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+33,Access to electricity (% of total population),Total Pop,Cape Verde,CPV,74.67873383,77.25189209,81.1,82.41745758,85.00637054,87.59703064,90.18797302
+34,Access to electricity (% of total population),Total Pop,Cayman Islands,CYM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+35,Access to electricity (% of total population),Total Pop,Central African Republic,CAF,9.319502831,9.809492111,9.8,10.80871868,11.31445694,11.82194519,12.32972527
+36,Access to electricity (% of total population),Total Pop,Chad,TCD,5.689885139,6.0661273,6.4,6.837860584,7.229851723,7.623592854,8.017625809
+37,Access to electricity (% of total population),Total Pop,Channel Islands,CHI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+38,Access to electricity (% of total population),Total Pop,Chile,CHL,99.21689606,99.593662,99.73860168,99.588193,99.97544861,99.6,100.0
+39,Access to electricity (% of total population),Total Pop,China,CHN,98.57659149,99.06166077,99.7,99.79426575,99.94684601,99.99354553,100.0
+40,Access to electricity (% of total population),Total Pop,Colombia,COL,96.806763,96.057229,96.788995,96.6936,97.032176,97.779418,97.790938
+41,Access to electricity (% of total population),Total Pop,Comoros,COM,58.9000206,61.36568832,63.83835602,66.31627655,69.3,71.2808609,73.76432037
+42,Access to electricity (% of total population),Total Pop,"Congo, Dem. Rep.",ZAR,11.55767059,12.20074558,12.85081959,13.50614357,15.4,14.82554054,13.5
+43,Access to electricity (% of total population),Total Pop,"Congo, Rep.",COG,36.77584457,37.1,38.88778687,39.95251083,41.6,42.09070206,43.16096115
+44,Access to electricity (% of total population),Total Pop,Cook Islands,COK,98.7515564,98.93600464,99.12746429,99.26806953,99.52436829,99.72631836,99.92856598
+45,Access to electricity (% of total population),Total Pop,Costa Rica,CRI,99.263937,99.409804,98.995734,99.232348,99.503298,99.563517,99.359291
+46,Access to electricity (% of total population),Total Pop,Cote d'Ivoire,CIV,99.263937,99.409804,98.995734,99.232348,99.503298,99.563517,99.359291
+47,Access to electricity (% of total population),Total Pop,Croatia,HRV,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+48,Access to electricity (% of total population),Total Pop,Cuba,CUB,99.91030884,99.98190308,99.99838257,100.0,100.0,100.0,100.0
+49,Access to electricity (% of total population),Total Pop,Curacao,CUW,99.91030884,99.98190308,99.99838257,100.0,100.0,100.0,100.0
+50,Access to electricity (% of total population),Total Pop,Cyprus,CYP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+51,Access to electricity (% of total population),Total Pop,Czech Republic,CZE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+52,Access to electricity (% of total population),Total Pop,Denmark,DNK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+53,Access to electricity (% of total population),Total Pop,Djibouti,DJI,50.85786438,50.15774155,49.46461487,48.77673721,48.09236145,47.40973282,46.72739792
+54,Access to electricity (% of total population),Total Pop,Dominica,DMA,90.9,93.7776947,95.2692337,96.76602173,98.10884094,99.19297028,100.0
+55,Access to electricity (% of total population),Total Pop,Dominican Republic,DOM,97.576197,97.85776,98.145414,97.898872,97.86705,98.385853,98.470979
+56,Access to electricity (% of total population),Total Pop,Ecuador,ECU,97.206576,96.470862,97.462142,96.872699,97.194929,98.034674,98.976067
+57,Access to electricity (% of total population),Total Pop,"Egypt, Arab Rep.",EGY,99.8,99.63510132,99.84063721,99.95353699,99.99267578,99.99964905,99.8
+58,Access to electricity (% of total population),Total Pop,El Salvador,SLV,91.000227,91.08402,91.580238,92.574686,93.680571,95.043105,95.125416
+59,Access to electricity (% of total population),Total Pop,Equatorial Guinea,GNQ,64.35193634,64.87512207,65.40531921,66.1,66.47969818,67.02038574,67.56137085
+60,Access to electricity (% of total population),Total Pop,Eritrea,ERI,38.61250687,39.80427933,41.00304794,42.2070694,43.41458893,44.62385559,45.8334198
+61,Access to electricity (% of total population),Total Pop,Estonia,EST,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+62,Access to electricity (% of total population),Total Pop,Ethiopia,ETH,19.67914963,20.76798058,21.86381149,23.0,24.06947136,25.17580223,27.2
+63,Access to electricity (% of total population),Total Pop,Fiji,FJI,89.95869446,91.88140869,93.81111908,95.74608612,97.68454742,98.91590881,100.0
+64,Access to electricity (% of total population),Total Pop,Finland,FIN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+65,Access to electricity (% of total population),Total Pop,France,FRA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+66,Access to electricity (% of total population),Total Pop,French Polynesia,PYF,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+67,Access to electricity (% of total population),Total Pop,Gabon,GAB,83.06771851,84.12708282,85.1934433,86.26506042,89.3,86.4,89.49419403
+68,Access to electricity (% of total population),Total Pop,"Gambia, The",GMB,39.57354736,40.83465958,42.10277176,43.37613678,44.65299606,44.5,47.21051407
+69,Access to electricity (% of total population),Total Pop,Georgia,GEO,99.82525635,99.86341095,99.90670013,99.94815826,100.0,99.99447632,100.0
+70,Access to electricity (% of total population),Total Pop,Germany,DEU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+71,Access to electricity (% of total population),Total Pop,Ghana,GHA,60.5,63.05879974,65.12267303,64.06256,69.26441956,70.7,78.3
+72,Access to electricity (% of total population),Total Pop,Gibraltar,GIB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+73,Access to electricity (% of total population),Total Pop,Greece,GRC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+74,Access to electricity (% of total population),Total Pop,Greenland,GRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+75,Access to electricity (% of total population),Total Pop,Grenada,GRD,86.98065186,87.60671234,88.23978424,88.8,89.51991272,90.16347504,90.8073349
+76,Access to electricity (% of total population),Total Pop,Guadeloupe,GLP,86.98065186,87.60671234,88.23978424,88.8,89.51991272,90.16347504,90.8073349
+77,Access to electricity (% of total population),Total Pop,Guam,GUM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+78,Access to electricity (% of total population),Total Pop,Guatemala,GTM,81.89920044,83.10138702,84.31056213,84.026414,86.74292755,87.96260834,85.494371
+79,Access to electricity (% of total population),Total Pop,Guinea,GIN,22.91119385,23.68782616,24.47145653,25.26033592,26.2,26.84684753,27.64126778
+80,Access to electricity (% of total population),Total Pop,Guinea-Bissau,GNB,2.600957632,4.7,6.0,9.366147995,11.63054371,13.89668941,17.2
+81,Access to electricity (% of total population),Total Pop,Guyana,GUY,80.23716736,77.6,81.4620285,82.08320618,82.70788574,83.33432007,86.9
+82,Access to electricity (% of total population),Total Pop,Haiti,HTI,35.5377655,35.92644501,36.32211685,36.72304535,37.9,37.53364182,37.94010925
+83,Access to electricity (% of total population),Total Pop,Honduras,HND,76.396899,78.269685,80.984668,82.195298,83.607727,87.184881,88.653773
+84,Access to electricity (% of total population),Total Pop,"Hong Kong SAR, China",HKG,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+85,Access to electricity (% of total population),Total Pop,Hungary,HUN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+86,Access to electricity (% of total population),Total Pop,Iceland,ISL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+87,Access to electricity (% of total population),Total Pop,India,IND,70.61524963,75.0,76.3,67.6,79.9,77.73751831,79.16925812
+88,Access to electricity (% of total population),Total Pop,Indonesia,IDN,92.73,93.55,94.15,94.83,96.0,96.46425831,97.01
+89,Access to electricity (% of total population),Total Pop,"Iran, Islamic Rep.",IRN,98.59194183,98.72184753,98.85875702,99.00091553,99.1465683,99.29397583,99.44168091
+90,Access to electricity (% of total population),Total Pop,Iraq,IRQ,97.899086,98.03595734,98.17983246,98.0,98.48157501,98.63594055,98.79060364
+91,Access to electricity (% of total population),Total Pop,Ireland,IRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+92,Access to electricity (% of total population),Total Pop,Isle of Man,IMY,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+93,Access to electricity (% of total population),Total Pop,Israel,ISR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+94,Access to electricity (% of total population),Total Pop,Italy,ITA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+95,Access to electricity (% of total population),Total Pop,Jamaica,JAM,92.0,92.52481079,93.43226624,91.1,95.26118469,96.17914581,97.09738922
+96,Access to electricity (% of total population),Total Pop,Japan,JPN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+97,Access to electricity (% of total population),Total Pop,Jordan,JOR,99.33492279,99.4,99.55314636,99.67037201,99.5,99.8976593,100.0
+98,Access to electricity (% of total population),Total Pop,Kazakhstan,KAZ,99.47929382,100.0,99.67443848,99.77879333,99.87578583,99.94984436,100.0
+99,Access to electricity (% of total population),Total Pop,Kenya,KEN,23.25907135,23.0,19.2,26.20334053,27.19409752,28.18660355,36.0
+100,Access to electricity (% of total population),Total Pop,Kiribati,KIR,59.82019424,46.4,63.16773671,53.93346024,51.98054886,50.02938843,48.07851791
+101,Access to electricity (% of total population),Total Pop,"Korea, Dem. Rep.",PRK,25.34458542,26.0,27.67087746,28.84277153,30.0181675,31.1953125,32.37274933
+102,Access to electricity (% of total population),Total Pop,"Korea, Rep.",KOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+103,Access to electricity (% of total population),Total Pop,Kosovo,KSV,97.81032562,98.40214539,99.0,99.4553299,99.78694153,99.94671631,100.0
+104,Access to electricity (% of total population),Total Pop,Kuwait,KWT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+105,Access to electricity (% of total population),Total Pop,Kyrgyz Republic,KGZ,99.57323456,99.57969666,99.0,99.61186218,99.8,99.65803528,99.8
+106,Access to electricity (% of total population),Total Pop,Lao PDR,LAO,66.0,65.47073364,67.98722839,70.0,73.03421783,75.56121063,78.08850098
+107,Access to electricity (% of total population),Total Pop,Latvia,LVA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+108,Access to electricity (% of total population),Total Pop,Lebanon,LBN,99.9,99.99469757,99.99954987,100.0,100.0,100.0,100.0
+109,Access to electricity (% of total population),Total Pop,Lesotho,LSO,14.79970932,17.0,18.97771645,21.07546806,23.17672157,25.27972221,27.8
+110,Access to electricity (% of total population),Total Pop,Liberia,LBR,2.582756519,1.9,4.752286434,4.1,6.942814827,9.8,9.140634537
+111,Access to electricity (% of total population),Total Pop,Libya,LBY,98.81468964,98.74132538,98.67494202,98.61381531,98.55625153,98.50071716,98.44602966
+112,Access to electricity (% of total population),Total Pop,Liechtenstein,LIE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+113,Access to electricity (% of total population),Total Pop,Lithuania,LTU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+114,Access to electricity (% of total population),Total Pop,Luxembourg,LUX,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+115,Access to electricity (% of total population),Total Pop,"Macao SAR, China",MAC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+116,Access to electricity (% of total population),Total Pop,"Macedonia, FYR",MKD,99.77095032,99.94021606,99.99267578,100.0,100.0,100.0,100.0
+117,Access to electricity (% of total population),Total Pop,Madagascar,MDG,15.22493649,17.4,15.73985481,14.3,16.27577209,12.9,16.81898117
+118,Access to electricity (% of total population),Total Pop,Malawi,MWI,7.713372707,8.03087616,8.7,7.6,7.4,9.0,11.9
+119,Access to electricity (% of total population),Total Pop,Malaysia,MYS,98.73890686,99.3,99.31588745,99.58900452,99.8,99.93569183,100.0
+120,Access to electricity (% of total population),Total Pop,Maldives,MDV,94.81939697,99.9,97.2731781,98.38389587,99.25427246,99.7624588,100.0
+121,Access to electricity (% of total population),Total Pop,Mali,MLI,19.88745308,21.11001968,22.33958626,23.57440186,25.6,26.05278397,27.29314041
+122,Access to electricity (% of total population),Total Pop,Malta,MLT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+123,Access to electricity (% of total population),Total Pop,Marshall Islands,MHL,80.48046112,82.0586319,83.64380646,89.91960679,86.82814789,88.4238205,90.01979065
+124,Access to electricity (% of total population),Total Pop,Mauritania,MRT,30.0,30.25637436,31.73592186,33.22071838,34.70901489,36.19906235,38.8
+125,Access to electricity (% of total population),Total Pop,Mauritius,MUS,99.00675964,99.02161407,99.04346466,99.4,99.1011734,99.13352966,99.16617584
+126,Access to electricity (% of total population),Total Pop,Mexico,MEX,98.914037,99.05887604,99.236696,99.57331848,99.111637,99.92144775,99.172928
+127,Access to electricity (% of total population),Total Pop,"Micronesia, Fed. Sts.",FSM,60.67185211,62.49718857,64.53152025,66.16711426,68.0082016,69.85103607,71.69416046
+128,Access to electricity (% of total population),Total Pop,Moldova,MDA,99.60401917,99.77014923,99.89844513,99.96985626,99.99507904,99.99973297,100.0
+129,Access to electricity (% of total population),Total Pop,Monaco,MCO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+130,Access to electricity (% of total population),Total Pop,Mongolia,MNG,80.1032486,81.00227356,81.90830231,82.81958008,83.73435211,81.2,85.56769562
+131,Access to electricity (% of total population),Total Pop,Montenegro,MNE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+132,Access to electricity (% of total population),Total Pop,Morocco,MAR,81.81393433,83.74913025,85.69132233,87.63876343,89.58970642,91.54239655,91.6
+133,Access to electricity (% of total population),Total Pop,Mozambique,MOZ,14.95462132,15.0,17.02664566,20.2,19.11966896,20.16967964,21.21998405
+134,Access to electricity (% of total population),Total Pop,Myanmar,MMR,48.98942566,49.40972519,48.8,50.26957703,50.70562744,51.1434288,52.0
+135,Access to electricity (% of total population),Total Pop,Namibia,NAM,43.44455338,44.45271301,45.4678688,46.48827362,47.51218033,47.4,49.56378174
+136,Access to electricity (% of total population),Total Pop,Nepal,NPL,59.38117599,63.43172836,67.48927307,76.3,75.61837006,79.68642426,84.9
+137,Access to electricity (% of total population),Total Pop,Netherlands,NLD,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+138,Access to electricity (% of total population),Total Pop,New Caledonia,NCL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+139,Access to electricity (% of total population),Total Pop,New Zealand,NZL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+140,Access to electricity (% of total population),Total Pop,Nicaragua,NIC,76.96134186,77.916313,78.07263184,78.63702393,79.20491791,79.77455902,81.853073
+141,Access to electricity (% of total population),Total Pop,Niger,NER,11.44155788,11.90785789,12.38115788,14.3,14.4,13.82555389,14.3096447
+142,Access to electricity (% of total population),Total Pop,Nigeria,NGA,50.3,52.15720367,48.0,55.9,55.44699097,55.6,57.65213776
+143,Access to electricity (% of total population),Total Pop,Northern Mariana Islands,MNP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+144,Access to electricity (% of total population),Total Pop,Norway,NOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+145,Access to electricity (% of total population),Total Pop,Oman,OMN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+146,Access to electricity (% of total population),Total Pop,Pakistan,PAK,87.80886078,90.73,91.03442383,91.37,94.28098297,93.6,97.53484344
+147,Access to electricity (% of total population),Total Pop,Palau,PLW,98.56046295,98.61419678,98.67492676,98.74090576,97.63042631,98.88161469,99.8103
+148,Access to electricity (% of total population),Total Pop,Panama,PAN,86.79147339,87.58067322,86.85,89.17832184,89.98327637,89.1,91.59696198
+149,Access to electricity (% of total population),Total Pop,Papua New Guinea,PNG,16.71237564,17.29267311,19.5,18.47251701,19.06856346,19.66636086,20.26445007
+150,Access to electricity (% of total population),Total Pop,Paraguay,PRY,96.677896,96.891335,97.43086,98.23656,97.835616,99.015884,99.000716
+151,Access to electricity (% of total population),Total Pop,Peru,PER,84.678343,86.42432,88.123061,89.707491,91.099508,92.135365,92.919989
+152,Access to electricity (% of total population),Total Pop,Philippines,PHL,83.3,83.43683624,84.56756592,85.70354462,86.84302521,87.5,89.12577057
+153,Access to electricity (% of total population),Total Pop,Poland,POL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+154,Access to electricity (% of total population),Total Pop,Portugal,PRT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+155,Access to electricity (% of total population),Total Pop,Puerto Rico,PRI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+156,Access to electricity (% of total population),Total Pop,Qatar,QAT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+157,Access to electricity (% of total population),Total Pop,Romania,ROM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+158,Access to electricity (% of total population),Total Pop,Russian Federation,RUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+159,Access to electricity (% of total population),Total Pop,Rwanda,RWA,6.0,10.84041309,9.7,10.8,12.81413364,15.2,19.8
+160,Access to electricity (% of total population),Total Pop,Samoa,WSM,94.24835968,95.15991974,96.07848358,96.6685747,97.92960358,98.85866547,97.9
+161,Access to electricity (% of total population),Total Pop,San Marino,SMR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+162,Access to electricity (% of total population),Total Pop,Sao Tome and Principe,STP,58.29914856,56.9,60.05297852,60.93864441,57.9,62.71872711,68.6
+163,Access to electricity (% of total population),Total Pop,Saudi Arabia,SAU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+164,Access to electricity (% of total population),Total Pop,Senegal,SEN,50.07398605,53.5,53.46149445,56.5,56.87000275,57.0,61.0
+165,Access to electricity (% of total population),Total Pop,Serbia,SRB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+166,Access to electricity (% of total population),Total Pop,Seychelles,SYC,96.95217133,97.37245941,97.0,98.23228455,98.6683197,98.0,99.54418182
+167,Access to electricity (% of total population),Total Pop,Sierra Leone,SLE,12.1,14.15943813,13.93989086,14.2,13.5147953,13.5,13.09699154
+168,Access to electricity (% of total population),Total Pop,Singapore,SGP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+169,Access to electricity (% of total population),Total Pop,Sint Maarten (Dutch part),SXM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+170,Access to electricity (% of total population),Total Pop,Slovak Republic,SVK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+171,Access to electricity (% of total population),Total Pop,Slovenia,SVN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+172,Access to electricity (% of total population),Total Pop,Solomon Islands,SLB,23.99537849,21.14815179,27.68534279,29.53907394,31.39630508,44.7,35.11455917
+173,Access to electricity (% of total population),Total Pop,Somalia,SOM,13.15595436,14.12821102,15.10746765,16.09197426,17.07997894,18.06973457,19.05978203
+174,Access to electricity (% of total population),Total Pop,South Africa,ZAF,81.9,82.7,82.9,84.7,85.3,85.4,86.0
+175,Access to electricity (% of total population),Total Pop,South Sudan,SSD,1.659759521,3.0,1.5,3.079197407,3.561676025,4.045904636,4.530425072
+176,Access to electricity (% of total population),Total Pop,Spain,ESP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+177,Access to electricity (% of total population),Total Pop,Sri Lanka,LKA,82.2651825,83.9078064,85.3,87.76,88.87069702,90.2,92.19124603
+178,Access to electricity (% of total population),Total Pop,St. Kitts and Nevis,KNA,97.19916534,97.75679016,98.32472229,98.88056946,99.38043213,99.75272369,100.0
+179,Access to electricity (% of total population),Total Pop,St. Lucia,LCA,94.21435547,94.86088562,95.51441193,96.17318726,96.83546448,97.49949646,98.16381073
+180,Access to electricity (% of total population),Total Pop,St. Martin (French part),MAF,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+181,Access to electricity (% of total population),Total Pop,St. Vincent and the Grenadines,VCT,90.71264648,92.085495,93.46533966,94.85044098,96.23903656,97.62937927,99.02001953
+182,Access to electricity (% of total population),Total Pop,Sudan,SDN,36.85403442,29.0,37.49003601,37.81678772,38.14703751,38.47903824,44.9
+183,Access to electricity (% of total population),Total Pop,Suriname,SUR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+184,Access to electricity (% of total population),Total Pop,Swaziland,SWZ,45.14897919,48.07823563,51.01449203,53.95600128,56.90100861,59.84776306,65.0
+185,Access to electricity (% of total population),Total Pop,Sweden,SWE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+186,Access to electricity (% of total population),Total Pop,Switzerland,CHE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+187,Access to electricity (% of total population),Total Pop,Syrian Arab Republic,SYR,91.12214661,91.89727783,92.7,93.46678925,94.25767517,95.0503006,95.84322357
+188,Access to electricity (% of total population),Total Pop,Tajikistan,TJK,99.16286469,99.0,99.42206573,99.56041718,99.1,99.84586334,99.98976135
+189,Access to electricity (% of total population),Total Pop,Tanzania,TZA,11.5,11.2,14.8,14.2,15.3,16.4,15.50144958
+190,Access to electricity (% of total population),Total Pop,Thailand,THA,95.75725555,97.45166016,99.7,99.49630737,99.88078308,99.98677063,100.0
+191,Access to electricity (% of total population),Total Pop,Timor-Leste,TMP,36.15917587,37.68430328,38.0,40.75381088,42.29468918,43.83731842,45.38023758
+192,Access to electricity (% of total population),Total Pop,Togo,TGO,33.26005936,35.20859146,37.16411972,39.7,41.08917999,43.05521011,45.7
+193,Access to electricity (% of total population),Total Pop,Tonga,TON,90.85734558,91.57803345,92.30571747,92.17545611,92.8,94.51326752,95.25174713
+194,Access to electricity (% of total population),Total Pop,Trinidad and Tobago,TTO,98.01235962,99.0,99.42642212,99.80375671,99.95848083,99.9960022,100.0
+195,Access to electricity (% of total population),Total Pop,Tunisia,TUN,99.4,99.5,99.5,99.5,99.5,99.7,99.8
+196,Access to electricity (% of total population),Total Pop,Turkey,TUR,98.80969238,99.33032227,100.0,99.92352295,99.98997498,99.99989319,100.0
+197,Access to electricity (% of total population),Total Pop,Turkmenistan,TKM,99.92895508,99.97246552,100.0,99.9992218,100.0,100.0,100.0
+198,Access to electricity (% of total population),Total Pop,Turks and Caicos Islands,TCA,93.79018402,93.97782898,94.17247009,94.37236786,93.1,94.78090668,94.98634338
+199,Access to electricity (% of total population),Total Pop,Tuvalu,TUV,96.5344696,96.8553772,97.18328857,97.51644897,97.6717774,98.19152069,98.53022003
+200,Access to electricity (% of total population),Total Pop,Uganda,UGA,12.15923214,10.0,13.1767931,14.6,14.21535301,13.9,20.4
+201,Access to electricity (% of total population),Total Pop,Ukraine,UKR,99.85758972,99.96763611,99.99658203,100.0,100.0,100.0,100.0
+202,Access to electricity (% of total population),Total Pop,United Arab Emirates,ARE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+203,Access to electricity (% of total population),Total Pop,United Kingdom,GBR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+204,Access to electricity (% of total population),Total Pop,United States,USA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+205,Access to electricity (% of total population),Total Pop,Uruguay,URY,98.784355,98.89827728,99.06619263,99.17,99.41603088,99.611808,99.657085
+206,Access to electricity (% of total population),Total Pop,Uzbekistan,UZB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+207,Access to electricity (% of total population),Total Pop,Vanuatu,VUT,29.06693649,33.29111519,30.85134506,31.75230026,32.65675354,31.7,34.46945572
+208,Access to electricity (% of total population),Total Pop,"Venezuela, RB",VEN,98.67480469,98.73525238,98.80270386,98.84,98.95160675,99.02955627,99.10779572
+209,Access to electricity (% of total population),Total Pop,Vietnam,VNM,95.33561707,96.1,97.71779633,99.0,100.0,100.0,99.2
+210,Access to electricity (% of total population),Total Pop,Virgin Islands (U.S.),VIR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+211,Access to electricity (% of total population),Total Pop,West Bank and Gaza,WBG,99.4516449,99.59689331,99.9,99.92842102,100.0,100.0,99.9
+212,Access to electricity (% of total population),Total Pop,"Yemen, Rep.",YEM,62.79619598,64.32528687,65.8613739,67.40270996,68.94754791,75.6,72.04101563
+213,Access to electricity (% of total population),Total Pop,Zambia,ZMB,21.5526619,21.94933701,22.0,22.76193619,23.17436028,23.5885334,27.9
+214,Access to electricity (% of total population),Total Pop,Zimbabwe,ZWE,35.03491974,35.31518936,35.60245895,36.9,36.19100189,36.48876953,32.3
+215,Access to electricity (% of rural population with access),Rural Pop,Afghanistan,AFG,32.5,39.87784958,32.4,54.98870087,63.8,70.12937927,87.8
+216,Access to electricity (% of rural population with access),Rural Pop,Albania,ALB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+217,Access to electricity (% of rural population with access),Rural Pop,Algeria,DZA,97.91063487,97.77934265,98.13349152,98.4988327,98.87162781,99.24815369,99.62530518
+218,Access to electricity (% of rural population with access),Rural Pop,Andorra,ADO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+219,Access to electricity (% of rural population with access),Rural Pop,Angola,AGO,7.516458511,6.868133545,6.234722614,5.5,4.997728348,4.386688709,3.0
+220,Access to electricity (% of rural population with access),Rural Pop,Antigua and Barbuda,ATG,99.8996048,99.92110443,99.95272827,99.9798584,99.99463654,99.99933624,100.0
+221,Access to electricity (% of rural population with access),Rural Pop,Armenia,ARM,99.73930359,99.87875366,99.8,99.99269867,99.99943542,100.0,100.0
+222,Access to electricity (% of rural population with access),Rural Pop,Aruba,ABW,99.85647583,99.89801788,99.94327545,99.97727966,99.99427795,99.99932861,100.0
+223,Access to electricity (% of rural population with access),Rural Pop,Australia,AUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+224,Access to electricity (% of rural population with access),Rural Pop,Austria,AUT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+225,Access to electricity (% of rural population with access),Rural Pop,Azerbaijan,AZE,99.77122498,99.94055176,99.99275208,100.0,100.0,100.0,100.0
+226,Access to electricity (% of rural population with access),Rural Pop,"Bahamas, The",BHS,99.85647583,99.89801788,99.94327545,99.97727966,99.99427795,99.99932861,100.0
+227,Access to electricity (% of rural population with access),Rural Pop,Bahrain,BHR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+228,Access to electricity (% of rural population with access),Rural Pop,Bangladesh,BGD,39.59544754,41.87519073,42.49,49.3,48.78899002,54.2,51.4
+229,Access to electricity (% of rural population with access),Rural Pop,Barbados,BRB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+230,Access to electricity (% of rural population with access),Rural Pop,Belarus,BLR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+231,Access to electricity (% of rural population with access),Rural Pop,Belgium,BEL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+232,Access to electricity (% of rural population with access),Rural Pop,Belize,BLZ,81.76346588,82.384552,83.03992065,83.6677475,84.32239532,84.98077393,85.63977051
+233,Access to electricity (% of rural population with access),Rural Pop,Benin,BEN,10.87212181,11.70191669,13.9,12.4,14.5,15.13294983,16.00065041
+234,Access to electricity (% of rural population with access),Rural Pop,Bermuda,BMU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+235,Access to electricity (% of rural population with access),Rural Pop,Bhutan,BTN,63.67379761,69.03321075,74.40753174,79.79304504,87.3,90.58270264,95.98001862
+236,Access to electricity (% of rural population with access),Rural Pop,Bolivia,BOL,56.135089,63.500866,58.88364792,66.622957,72.458314,69.338595,71.474067
+237,Access to electricity (% of rural population with access),Rural Pop,Bosnia and Herzegovina,BIH,99.94512177,99.99327087,100.0,100.0,100.0,100.0,100.0
+238,Access to electricity (% of rural population with access),Rural Pop,Botswana,BWA,42.9,29.12325096,30.7883091,23.87,34.14825439,35.83568192,37.52373123
+239,Access to electricity (% of rural population with access),Rural Pop,Brazil,BRA,91.398435,93.332725,93.63812256,95.784948,97.022847,97.294009,97.839087
+240,Access to electricity (% of rural population with access),Rural Pop,Brunei Darussalam,BRN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+241,Access to electricity (% of rural population with access),Rural Pop,Bulgaria,BGR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+242,Access to electricity (% of rural population with access),Rural Pop,Burkina Faso,BFA,1.525359154,1.691386104,1.4,2.064453125,2.264036179,2.467348099,3.0
+243,Access to electricity (% of rural population with access),Rural Pop,Burundi,BDI,1.2,1.164439559,1.0,1.424404979,1.2,1.714198351,2.0
+244,Access to electricity (% of rural population with access),Rural Pop,Cambodia,KHM,13.1,25.10899544,18.8,29.00617981,30.96782112,32.93319321,49.2
+245,Access to electricity (% of rural population with access),Rural Pop,Cameroon,CMR,19.61463356,20.01532745,20.43093491,18.5,21.29197693,21.72995567,22.16855621
+246,Access to electricity (% of rural population with access),Rural Pop,Canada,CAN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+247,Access to electricity (% of rural population with access),Rural Pop,Cape Verde,CPV,55.56431198,59.47977829,65.8,67.35172272,71.3007431,75.25349426,79.2068634
+248,Access to electricity (% of rural population with access),Rural Pop,Cayman Islands,CYM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+249,Access to electricity (% of rural population with access),Rural Pop,Central African Republic,CAF,1.759915233,1.957923055,1.7,2.394952297,2.626516342,2.861809254,3.097723722
+250,Access to electricity (% of rural population with access),Rural Pop,Chad,TCD,2.374429703,2.708256721,3.1,3.416923761,3.784307003,4.155418873,4.527152061
+251,Access to electricity (% of rural population with access),Rural Pop,Channel Islands,CHI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+252,Access to electricity (% of rural population with access),Rural Pop,Chile,CHL,95.35223389,97.80333,98.29973602,97.781241,99.81681824,98.0,100.0
+253,Access to electricity (% of rural population with access),Rural Pop,China,CHN,96.66657257,97.28125,98.0,98.54933167,99.13972473,99.62411499,100.0
+254,Access to electricity (% of rural population with access),Rural Pop,Colombia,COL,87.470664,84.540784,86.84958,86.35929,87.858058,90.52792,90.499782
+255,Access to electricity (% of rural population with access),Rural Pop,Comoros,COM,49.26605988,51.86233521,54.473526,57.09590149,61.4,62.35929108,64.99347687
+256,Access to electricity (% of rural population with access),Rural Pop,"Congo, Dem. Rep.",ZAR,0.710771322,0.739564896,0.783272386,0.838165343,1.0,0.966593802,0.4
+257,Access to electricity (% of rural population with access),Rural Pop,"Congo, Rep.",COG,12.17502499,9.4,11.54747868,11.25234795,11.7,10.68072987,10.39740562
+258,Access to electricity (% of rural population with access),Rural Pop,Cook Islands,COK,98.77462006,98.95135498,99.14299774,99.34318555,99.55612946,99.77014923,99.98478699
+259,Access to electricity (% of rural population with access),Rural Pop,Costa Rica,CRI,98.282766,98.641978,97.734454,97.986184,98.690151,98.921142,98.414246
+260,Access to electricity (% of rural population with access),Rural Pop,Cote d'Ivoire,CIV,98.282766,98.641978,97.734454,97.986184,98.690151,98.921142,98.414246
+261,Access to electricity (% of rural population with access),Rural Pop,Croatia,HRV,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+262,Access to electricity (% of rural population with access),Rural Pop,Cuba,CUB,93.34319305,94.09640503,94.86453247,95.64385223,96.43061829,97.22112274,98.01223755
+263,Access to electricity (% of rural population with access),Rural Pop,Curacao,CUW,93.34319305,94.09640503,94.86453247,95.64385223,96.43061829,97.22112274,98.01223755
+264,Access to electricity (% of rural population with access),Rural Pop,Cyprus,CYP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+265,Access to electricity (% of rural population with access),Rural Pop,Czech Republic,CZE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+266,Access to electricity (% of rural population with access),Rural Pop,Denmark,DNK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+267,Access to electricity (% of rural population with access),Rural Pop,Djibouti,DJI,10.12993813,10.153759,10.19249535,10.24241543,10.29979324,10.36089993,10.4226284
+268,Access to electricity (% of rural population with access),Rural Pop,Dominican Republic,DOM,93.312888,93.900472,94.675536,94.013044,94.211009,95.226213,95.641568
+269,Access to electricity (% of rural population with access),Rural Pop,Ecuador,ECU,92.140953,91.159456,92.659412,91.161191,92.33289,94.733695,97.054058
+270,Access to electricity (% of rural population with access),Rural Pop,"Egypt, Arab Rep.",EGY,99.3,99.21614075,99.63208008,99.87820435,99.97556305,99.99784088,99.8
+271,Access to electricity (% of rural population with access),Rural Pop,El Salvador,SLV,79.393669,80.329462,81.498281,83.820242,85.670994,89.999795,90.262428
+272,Access to electricity (% of rural population with access),Rural Pop,Equatorial Guinea,GNQ,40.67906952,41.34712219,42.03008652,43.0,43.4258461,44.13118362,44.83714294
+273,Access to electricity (% of rural population with access),Rural Pop,Eritrea,ERI,5.065860748,5.392643452,5.734340191,6.087222576,6.447561741,6.811629295,7.176318645
+274,Access to electricity (% of rural population with access),Rural Pop,Estonia,EST,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+275,Access to electricity (% of rural population with access),Rural Pop,Ethiopia,ETH,5.017929554,5.804760933,6.606506348,4.8,8.239825249,9.063941002,12.2
+276,Access to electricity (% of rural population with access),Rural Pop,Faeroe Islands,FRO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+277,Access to electricity (% of rural population with access),Rural Pop,Fiji,FJI,72.10162354,72.77825928,73.46981049,74.17255402,74.88275146,75.59667206,76.31121826
+278,Access to electricity (% of rural population with access),Rural Pop,Finland,FIN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+279,Access to electricity (% of rural population with access),Rural Pop,France,FRA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+280,Access to electricity (% of rural population with access),Rural Pop,French Polynesia,PYF,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+281,Access to electricity (% of rural population with access),Rural Pop,Gabon,GAB,36.80559158,37.69863129,38.60658264,39.5257225,44.9,37.4,42.31358719
+282,Access to electricity (% of rural population with access),Rural Pop,"Gambia, The",GMB,14.72999859,14.41003704,14.10498905,13.81112671,13.52472115,12.9,12.95998955
+283,Access to electricity (% of rural population with access),Rural Pop,Georgia,GEO,99.59780121,99.67354584,99.76289368,99.85469055,100.0,99.97716522,100.0
+284,Access to electricity (% of rural population with access),Rural Pop,Germany,DEU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+285,Access to electricity (% of rural population with access),Rural Pop,Ghana,GHA,38.2,41.7207756,44.04360962,40.9546,48.71910477,48.6,63.0
+286,Access to electricity (% of rural population with access),Rural Pop,Gibraltar,GIB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+287,Access to electricity (% of rural population with access),Rural Pop,Greece,GRC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+288,Access to electricity (% of rural population with access),Rural Pop,Greenland,GRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+289,Access to electricity (% of rural population with access),Rural Pop,Guam,GUM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+290,Access to electricity (% of rural population with access),Rural Pop,Guatemala,GTM,69.56623077,71.26235199,72.97338104,72.113698,76.42527771,78.15868378,74.816634
+291,Access to electricity (% of rural population with access),Rural Pop,Guinea,GIN,2.67995429,2.869075298,3.073110104,3.288330555,2.9,3.737413645,3.964441299
+292,Access to electricity (% of rural population with access),Rural Pop,Guinea-Bissau,GNB,2.8654356,3.097024441,3.5,3.601215601,3.866360664,4.135234356,4.0
+293,Access to electricity (% of rural population with access),Rural Pop,Guyana,GUY,75.83554077,72.3,77.84767914,78.87238312,79.90455627,80.94044495,84.0
+294,Access to electricity (% of rural population with access),Rural Pop,Haiti,HTI,12.65195465,13.38406658,14.13109303,14.88930416,15.2,16.42436981,17.19438934
+295,Access to electricity (% of rural population with access),Rural Pop,Honduras,HND,55.266458,59.190562,63.869036,65.757091,69.21689,75.782689,76.318906
+296,Access to electricity (% of rural population with access),Rural Pop,"Hong Kong SAR, China",HKG,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+297,Access to electricity (% of rural population with access),Rural Pop,Hungary,HUN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+298,Access to electricity (% of rural population with access),Rural Pop,Iceland,ISL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+299,Access to electricity (% of rural population with access),Rural Pop,India,IND,60.16558075,66.0,65.7,55.8,72.7,68.37213135,70.02897644
+300,Access to electricity (% of rural population with access),Rural Pop,Indonesia,IDN,84.98196411,88.5,89.39,90.4,92.9,93.27557792,94.29
+301,Access to electricity (% of rural population with access),Rural Pop,"Iran, Islamic Rep.",IRN,94.37420654,94.43933868,94.51939392,94.61062622,94.70932007,94.81174469,94.91478729
+302,Access to electricity (% of rural population with access),Rural Pop,Iraq,IRQ,92.21730042,92.83612061,93.46984863,94.08756319,94.76715088,95.42325592,96.07997894
+303,Access to electricity (% of rural population with access),Rural Pop,Ireland,IRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+304,Access to electricity (% of rural population with access),Rural Pop,Isle of Man,IMY,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+305,Access to electricity (% of rural population with access),Rural Pop,Israel,ISR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+306,Access to electricity (% of rural population with access),Rural Pop,Italy,ITA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+307,Access to electricity (% of rural population with access),Rural Pop,Jamaica,JAM,83.87304663,91.78779602,93.49884796,95.22108459,96.95078278,98.49555206,100.0
+308,Access to electricity (% of rural population with access),Rural Pop,Japan,JPN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+309,Access to electricity (% of rural population with access),Rural Pop,Jordan,JOR,98.48894501,98.66859777,99.36641693,99.70407104,99.4,99.98072815,100.0
+310,Access to electricity (% of rural population with access),Rural Pop,Kazakhstan,KAZ,98.85318756,100.0,99.27697754,99.50389099,99.71658325,99.88278961,100.0
+311,Access to electricity (% of rural population with access),Rural Pop,Kenya,KEN,7.770116806,8.1,6.7,9.092891693,9.553701401,10.01824093,12.6
+312,Access to electricity (% of rural population with access),Rural Pop,Kiribati,KIR,39.94119644,19.7,44.22788606,31.03891945,28.09137726,25.14756584,22.20437431
+313,Access to electricity (% of rural population with access),Rural Pop,"Korea, Rep.",KOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+314,Access to electricity (% of rural population with access),Rural Pop,Kosovo,KSV,99.85883331,99.9003067,99.94503784,99.97822571,99.99458313,99.99937439,100.0
+315,Access to electricity (% of rural population with access),Rural Pop,Kuwait,KWT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+316,Access to electricity (% of rural population with access),Rural Pop,Kyrgyz Republic,KGZ,99.07187653,99.16847229,99.27997589,99.40267181,99.8,99.66670227,99.7
+317,Access to electricity (% of rural population with access),Rural Pop,Lao PDR,LAO,53.0,53.78679657,56.63365173,59.4916954,62.35719299,65.22641754,68.0962677
+318,Access to electricity (% of rural population with access),Rural Pop,Latvia,LVA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+319,Access to electricity (% of rural population with access),Rural Pop,Lebanon,LBN,99.2,99.52719879,99.81994629,99.95638275,99.99504089,100.0,100.0
+320,Access to electricity (% of rural population with access),Rural Pop,Lesotho,LSO,5.084319115,6.0,7.253692627,8.357022285,9.46780777,10.58232307,11.8
+321,Access to electricity (% of rural population with access),Rural Pop,Liberia,LBR,0.576563239,0.5,0.919231594,1.0,1.306641817,1.2,1.709587812
+322,Access to electricity (% of rural population with access),Rural Pop,Libya,LBY,94.69029236,94.26737213,93.85936737,93.4625473,93.07318115,92.68754578,92.30252838
+323,Access to electricity (% of rural population with access),Rural Pop,Liechtenstein,LIE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+324,Access to electricity (% of rural population with access),Rural Pop,Lithuania,LTU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+325,Access to electricity (% of rural population with access),Rural Pop,Luxembourg,LUX,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+326,Access to electricity (% of rural population with access),Rural Pop,"Macao SAR, China",MAC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+327,Access to electricity (% of rural population with access),Rural Pop,"Macedonia, FYR",MKD,99.12687683,99.57272339,99.84942627,99.96688843,99.99664307,100.0,100.0
+328,Access to electricity (% of rural population with access),Rural Pop,Madagascar,MDG,7.999606133,8.2,8.853404999,9.4,9.751945496,8.1,10.6660223
+329,Access to electricity (% of rural population with access),Rural Pop,Malawi,MWI,2.61802721,2.798091412,3.5,2.9,2.3,3.4,4.7
+330,Access to electricity (% of rural population with access),Rural Pop,Malaysia,MYS,97.11919403,98.0,98.17254639,98.70526886,99.3,99.64431763,100.0
+331,Access to electricity (% of rural population with access),Rural Pop,Maldives,MDV,98.9790802,99.8,99.35913849,99.5639801,99.75492096,99.90097046,100.0
+332,Access to electricity (% of rural population with access),Rural Pop,Mali,MLI,7.22812891,7.970344543,8.727474213,9.495788574,11.9,11.05106163,11.83118343
+333,Access to electricity (% of rural population with access),Rural Pop,Malta,MLT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+334,Access to electricity (% of rural population with access),Rural Pop,Marshall Islands,MHL,57.01420593,60.92516327,64.85103607,83.73090215,72.73261261,76.6808548,80.62971497
+335,Access to electricity (% of rural population with access),Rural Pop,Mauritania,MRT,2.362126589,2.455826998,2.564441442,2.684241295,2.811498165,2.942483425,2.3
+336,Access to electricity (% of rural population with access),Rural Pop,Mauritius,MUS,88.04804993,86.47975922,84.92637634,83.38417816,81.8494339,80.31842804,78.78803253
+337,Access to electricity (% of rural population with access),Rural Pop,Mexico,MEX,95.935502,96.99227905,97.518062,98.82281494,97.194036,99.8489151,97.52599
+338,Access to electricity (% of rural population with access),Rural Pop,"Micronesia, Fed. Sts.",FSM,48.01632309,52.65244293,58.59483691,61.96569824,66.63537598,71.30877686,75.98281097
+339,Access to electricity (% of rural population with access),Rural Pop,Moldova,MDA,99.51260376,99.81384277,99.95477295,99.99484253,100.0,100.0,100.0
+340,Access to electricity (% of rural population with access),Rural Pop,Monaco,MCO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+341,Access to electricity (% of rural population with access),Rural Pop,Mongolia,MNG,63.41975021,61.29925156,59.19366455,57.09926224,55.01232147,52.0,50.84651184
+342,Access to electricity (% of rural population with access),Rural Pop,Montenegro,MNE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+343,Access to electricity (% of rural population with access),Rural Pop,Morocco,MAR,64.5667038,67.70781708,70.8638382,74.03104401,77.20570374,80.38410187,84.6
+344,Access to electricity (% of rural population with access),Rural Pop,Mozambique,MOZ,3.646966696,3.8,4.385885239,5.4,5.16954565,5.568832874,5.968741894
+345,Access to electricity (% of rural population with access),Rural Pop,Myanmar,MMR,31.58826828,34.15716553,34.3,39.33597183,41.93842697,44.54460526,49.0
+346,Access to electricity (% of rural population with access),Rural Pop,Namibia,NAM,16.54963112,17.31553841,18.09636116,18.8883667,19.68783188,20.5,21.29483986
+347,Access to electricity (% of rural population with access),Rural Pop,Nepal,NPL,53.5548439,57.83282852,62.12572479,72.9,70.74134827,75.05661774,81.7
+348,Access to electricity (% of rural population with access),Rural Pop,Netherlands,NLD,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+349,Access to electricity (% of rural population with access),Rural Pop,New Caledonia,NCL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+350,Access to electricity (% of rural population with access),Rural Pop,New Zealand,NZL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+351,Access to electricity (% of rural population with access),Rural Pop,Nicaragua,NIC,48.50918579,47.234364,50.00601578,50.77307129,51.54758453,52.32582474,57.14328
+352,Access to electricity (% of rural population with access),Rural Pop,Niger,NER,3.380274773,3.697885752,4.030410767,4.8,5.2,5.080184937,5.435702324
+353,Access to electricity (% of rural population with access),Rural Pop,Nigeria,NGA,31.4,33.68843079,34.9,35.5,37.04286575,34.4,39.30463028
+354,Access to electricity (% of rural population with access),Rural Pop,Northern Mariana Islands,MNP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+355,Access to electricity (% of rural population with access),Rural Pop,Norway,NOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+356,Access to electricity (% of rural population with access),Rural Pop,Oman,OMN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+357,Access to electricity (% of rural population with access),Rural Pop,Pakistan,PAK,82.19772339,87.1,86.63848877,87.9,91.12399292,90.5,95.62503815
+358,Access to electricity (% of rural population with access),Rural Pop,Palau,PLW,97.03279114,97.11725616,97.21662903,97.32719421,96.24689707,97.56695557,98.6
+359,Access to electricity (% of rural population with access),Rural Pop,Panama,PAN,59.73106766,60.69409561,61.65,62.6611557,63.65773773,64.65805054,65.65898132
+360,Access to electricity (% of rural population with access),Rural Pop,Papua New Guinea,PNG,8.400304794,8.957667351,9.0,10.11340427,10.70432281,11.29897022,11.89423847
+361,Access to electricity (% of rural population with access),Rural Pop,Paraguay,PRY,93.256852,94.596283,94.268077,96.253098,95.143326,97.892911,97.74687
+362,Access to electricity (% of rural population with access),Rural Pop,Peru,PER,50.133503,55.129787,58.5864,64.237932,68.558489,71.597192,74.504761
+363,Access to electricity (% of rural population with access),Rural Pop,Philippines,PHL,72.8,73.14464569,75.01016235,76.88686371,78.77102661,81.5,82.54743195
+364,Access to electricity (% of rural population with access),Rural Pop,Poland,POL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+365,Access to electricity (% of rural population with access),Rural Pop,Portugal,PRT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+366,Access to electricity (% of rural population with access),Rural Pop,Puerto Rico,PRI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+367,Access to electricity (% of rural population with access),Rural Pop,Qatar,QAT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+368,Access to electricity (% of rural population with access),Rural Pop,Romania,ROM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+369,Access to electricity (% of rural population with access),Rural Pop,Russian Federation,RUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+370,Access to electricity (% of rural population with access),Rural Pop,Rwanda,RWA,2.0,4.163861752,4.0,2.5,5.363918781,7.7,9.1
+371,Access to electricity (% of rural population with access),Rural Pop,Samoa,WSM,95.72316742,95.97236633,96.23648071,96.14719447,96.79452515,97.08100891,97.6
+372,Access to electricity (% of rural population with access),Rural Pop,San Marino,SMR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+373,Access to electricity (% of rural population with access),Rural Pop,Sao Tome and Principe,STP,44.35441971,44.2,46.13684845,47.04670715,43.3,48.88505936,54.8
+374,Access to electricity (% of rural population with access),Rural Pop,Saudi Arabia,SAU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+375,Access to electricity (% of rural population with access),Rural Pop,Senegal,SEN,21.19849014,26.4,24.27826309,26.6,27.40277672,27.5,32.7
+376,Access to electricity (% of rural population with access),Rural Pop,Serbia,SRB,99.85925293,99.90071106,99.94534302,99.97838593,99.99463654,99.99938202,100.0
+377,Access to electricity (% of rural population with access),Rural Pop,Seychelles,SYC,87.788414,89.58810425,91.40270233,93.22848511,95.0617218,96.8986969,98.73628235
+378,Access to electricity (% of rural population with access),Rural Pop,Sierra Leone,SLE,1.4,0.835837901,0.854835153,0.29,0.922657669,0.7,1.006015897
+379,Access to electricity (% of rural population with access),Rural Pop,Singapore,SGP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+380,Access to electricity (% of rural population with access),Rural Pop,Sint Maarten (Dutch part),SXM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+381,Access to electricity (% of rural population with access),Rural Pop,Slovak Republic,SVK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+382,Access to electricity (% of rural population with access),Rural Pop,Slovenia,SVN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+383,Access to electricity (% of rural population with access),Rural Pop,Solomon Islands,SLB,18.89593887,21.37617111,23.87131882,26.37765121,28.89143944,41.3,33.92709732
+384,Access to electricity (% of rural population with access),Rural Pop,Somalia,SOM,5.631355286,6.534335613,7.452229977,8.381310463,9.317847252,10.25811291,11.1989994
+385,Access to electricity (% of rural population with access),Rural Pop,South Africa,ZAF,59.88301468,61.79128265,63.71446228,64.1,67.59065247,69.53620148,71.4823761
+386,Access to electricity (% of rural population with access),Rural Pop,South Sudan,SSD,0.241898119,0.6,0.7,1.715145469,2.357033014,3.002649307,3.648887157
+387,Access to electricity (% of rural population with access),Rural Pop,Spain,ESP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+388,Access to electricity (% of rural population with access),Rural Pop,Sri Lanka,LKA,80.5605011,82.26567841,84.1,86.15,87.45578766,88.8,90.94132996
+389,Access to electricity (% of rural population with access),Rural Pop,St. Kitts and Nevis,KNA,98.75390625,99.0090332,99.27684021,99.54018402,99.76350403,99.91319275,100.0
+390,Access to electricity (% of rural population with access),Rural Pop,St. Lucia,LCA,91.80761719,92.60496521,93.41723633,94.24068451,95.07159424,95.90623474,96.74149323
+391,Access to electricity (% of rural population with access),Rural Pop,St. Martin (French part),MAF,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+392,Access to electricity (% of rural population with access),Rural Pop,St. Vincent and the Grenadines,VCT,87.27005768,88.49935913,89.74356842,90.9989624,92.26181793,93.52840424,94.79560852
+393,Access to electricity (% of rural population with access),Rural Pop,Sudan,SDN,22.19460297,15.0,23.47757149,24.13769913,24.80528259,25.47659683,31.7
+394,Access to electricity (% of rural population with access),Rural Pop,Suriname,SUR,97.181427,97.08747864,97.00845337,96.94060516,96.88021851,96.82355499,96.76751709
+395,Access to electricity (% of rural population with access),Rural Pop,Swaziland,SWZ,22.79242134,23.38295937,23.98841095,24.60504913,25.22914505,25.85696793,26.4854126
+396,Access to electricity (% of rural population with access),Rural Pop,Sweden,SWE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+397,Access to electricity (% of rural population with access),Rural Pop,Switzerland,CHE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+398,Access to electricity (% of rural population with access),Rural Pop,Syrian Arab Republic,SYR,79.84721375,80.92272186,82.01314545,83.11476135,84.22382355,85.33661652,86.4500351
+399,Access to electricity (% of rural population with access),Rural Pop,Tajikistan,TJK,98.86473083,98.91056061,98.97129822,99.04322815,98.8,99.20572662,99.28945923
+400,Access to electricity (% of rural population with access),Rural Pop,Tanzania,TZA,2.1,2.0,3.7,4.1,3.6,4.2,4.028936386
+401,Access to electricity (% of rural population with access),Rural Pop,Thailand,THA,94.45775604,95.44918823,97.0,97.47307587,98.49806213,99.5267868,100.0
+402,Access to electricity (% of rural population with access),Rural Pop,Timor-Leste,TMP,19.77668953,22.62589836,24.0,28.36532974,31.24809456,34.13458633,37.02170563
+403,Access to electricity (% of rural population with access),Rural Pop,Togo,TGO,27.24347496,29.76806068,32.30755997,77.9,37.41638947,39.97826004,16.3
+404,Access to electricity (% of rural population with access),Rural Pop,Tonga,TON,90.48491669,90.62795258,90.7858963,90.60237475,91.3,91.3119278,91.49286652
+405,Access to electricity (% of rural population with access),Rural Pop,Trinidad and Tobago,TTO,97.8313446,98.0,98.44677734,98.77313995,99.10694885,99.44449615,99.78266144
+406,Access to electricity (% of rural population with access),Rural Pop,Tunisia,TUN,98.18670654,98.39936829,98.62695313,98.86571503,99.11193848,99.36188507,99.61245728
+407,Access to electricity (% of rural population with access),Rural Pop,Turkey,TUR,98.73953247,99.36243439,100.0,100.0,100.0,100.0,100.0
+408,Access to electricity (% of rural population with access),Rural Pop,Turkmenistan,TKM,99.89511871,100.0,100.0,100.0,100.0,100.0,100.0
+409,Access to electricity (% of rural population with access),Rural Pop,Turks and Caicos Islands,TCA,99.84109497,99.8915863,99.95700073,100.0,100.0,100.0,100.0
+410,Access to electricity (% of rural population with access),Rural Pop,Tuvalu,TUV,95.34554291,95.63499451,95.93935394,96.2549057,96.61572052,96.90464783,97.23200226
+411,Access to electricity (% of rural population with access),Rural Pop,Uganda,UGA,4.688980103,3.3,5.37702179,5.3,6.109805584,6.483654976,10.3
+412,Access to electricity (% of rural population with access),Rural Pop,Ukraine,UKR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+413,Access to electricity (% of rural population with access),Rural Pop,United Arab Emirates,ARE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+414,Access to electricity (% of rural population with access),Rural Pop,United Kingdom,GBR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+415,Access to electricity (% of rural population with access),Rural Pop,United States,USA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+416,Access to electricity (% of rural population with access),Rural Pop,Uruguay,URY,88.937183,91.00331116,92.35243988,94.44,95.08052063,97.043614,97.450928
+417,Access to electricity (% of rural population with access),Rural Pop,Uzbekistan,UZB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+418,Access to electricity (% of rural population with access),Rural Pop,Vanuatu,VUT,12.68088531,17.37355663,12.2670908,12.07883549,11.89803791,8.5,11.54452038
+419,Access to electricity (% of rural population with access),Rural Pop,"Venezuela, RB",VEN,93.07280731,92.87545013,92.69301605,92.52175903,92.35796356,92.19789886,92.03845215
+420,Access to electricity (% of rural population with access),Rural Pop,Vietnam,VNM,93.82246399,94.6,96.69664001,97.75,99.61554718,100.0,98.9
+421,Access to electricity (% of rural population with access),Rural Pop,Virgin Islands (U.S.),VIR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+422,Access to electricity (% of rural population with access),Rural Pop,West Bank and Gaza,WBG,99.4516449,99.59689331,99.7,99.92842102,100.0,100.0,100.0
+423,Access to electricity (% of rural population with access),Rural Pop,"Yemen, Rep.",YEM,49.35496902,50.93533325,52.53060913,54.1370697,55.75098801,65.2,58.98690414
+424,Access to electricity (% of rural population with access),Rural Pop,Zambia,ZMB,3.069120884,3.187806606,3.1,3.466191292,3.618433237,3.774404049,3.8
+425,Access to electricity (% of rural population with access),Rural Pop,Zimbabwe,ZWE,9.669576645,10.07965851,10.50465393,13.3,11.38447285,11.83183956,9.8
+426,Access to electricity (% of urban population with access),Urban Pop,Afghanistan,AFG,73.84302388,72.82572064,74.11898589,81.01453746,84.61042929,89.55264713,94.2683054
+427,Access to electricity (% of urban population with access),Urban Pop,Albania,ALB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+428,Access to electricity (% of urban population with access),Urban Pop,Algeria,DZA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+429,Access to electricity (% of urban population with access),Urban Pop,Andorra,ADO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+430,Access to electricity (% of urban population with access),Urban Pop,Angola,AGO,82.53669111,80.40021883,78.30319726,76.64914476,74.25911747,72.33057591,70.01483401
+431,Access to electricity (% of urban population with access),Urban Pop,Antigua and Barbuda,ATG,73.7957274,75.42000766,77.11981064,78.83271191,80.91332359,83.04256068,85.29571081
+432,Access to electricity (% of urban population with access),Urban Pop,Armenia,ARM,99.73963739,99.83820805,99.8,99.97825157,99.99706789,100.0,100.0
+433,Access to electricity (% of urban population with access),Urban Pop,Aruba,ABW,84.34286835,84.67133272,84.64582094,85.3936589,85.81748133,86.27767425,86.75978837
+434,Access to electricity (% of urban population with access),Urban Pop,Australia,AUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+435,Access to electricity (% of urban population with access),Urban Pop,Austria,AUT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+436,Access to electricity (% of urban population with access),Urban Pop,Azerbaijan,AZE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+437,Access to electricity (% of urban population with access),Urban Pop,"Bahamas, The",BHS,99.12701804,99.56913895,99.8468326,99.96669533,99.99710205,100.0,100.0
+438,Access to electricity (% of urban population with access),Urban Pop,Bahrain,BHR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+439,Access to electricity (% of urban population with access),Urban Pop,Bangladesh,BGD,75.6239256,77.25176006,84.41108165,82.28638935,82.20672788,76.4880348,84.22014576
+440,Access to electricity (% of urban population with access),Urban Pop,Barbados,BRB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+441,Access to electricity (% of urban population with access),Urban Pop,Belarus,BLR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+442,Access to electricity (% of urban population with access),Urban Pop,Belgium,BEL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+443,Access to electricity (% of urban population with access),Urban Pop,Belize,BLZ,97.04150229,97.73103651,98.33539987,99.09670571,99.7656417,100.0,100.0
+444,Access to electricity (% of urban population with access),Urban Pop,Benin,BEN,59.20018822,60.71702838,62.40193353,70.37993831,70.51518415,66.52459498,57.59496807
+445,Access to electricity (% of urban population with access),Urban Pop,Bermuda,BMU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+446,Access to electricity (% of urban population with access),Urban Pop,Bhutan,BTN,89.63059721,93.52975692,97.48010317,100.0,98.84860633,100.0,100.0
+447,Access to electricity (% of urban population with access),Urban Pop,Bolivia,BOL,99.67422206,98.75526611,97.43531083,99.10068649,99.10713485,99.1292648,98.73215057
+448,Access to electricity (% of urban population with access),Urban Pop,Bosnia and Herzegovina,BIH,99.8609395,99.95023957,99.99245346,100.0,100.0,100.0,100.0
+449,Access to electricity (% of urban population with access),Urban Pop,Botswana,BWA,43.25860296,59.06256592,61.39818052,75.88269262,66.05381477,68.37023672,70.67563279
+450,Access to electricity (% of urban population with access),Urban Pop,Brazil,BRA,99.90980825,99.90572604,100.0,99.97263102,99.96350376,99.97231734,99.95906405
+451,Access to electricity (% of urban population with access),Urban Pop,Brunei Darussalam,BRN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+452,Access to electricity (% of urban population with access),Urban Pop,Bulgaria,BGR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+453,Access to electricity (% of urban population with access),Urban Pop,Burkina Faso,BFA,52.74237227,52.96958431,46.98737284,53.35776605,53.53420041,53.71054767,58.81587463
+454,Access to electricity (% of urban population with access),Urban Pop,Burundi,BDI,36.78016287,43.79755591,41.40975439,43.64826436,48.56796576,43.34154594,44.51338853
+455,Access to electricity (% of urban population with access),Urban Pop,Cambodia,KHM,81.18989434,72.76343623,80.88986205,77.82173501,80.2686993,82.67211003,82.83556402
+456,Access to electricity (% of urban population with access),Urban Pop,Cameroon,CMR,81.37157715,82.50904396,83.63285045,86.06367485,85.8511886,86.94737708,86.51654657
+457,Access to electricity (% of urban population with access),Urban Pop,Canada,CAN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+458,Access to electricity (% of urban population with access),Urban Pop,Cape Verde,CPV,87.31901023,88.60679022,90.54407254,91.4091974,92.92223634,94.50209343,96.14254832
+459,Access to electricity (% of urban population with access),Urban Pop,Cayman Islands,CYM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+460,Access to electricity (% of urban population with access),Urban Pop,Central African Republic,CAF,21.41051751,22.27771283,22.56123557,23.94991681,24.75688998,25.54569538,26.31762748
+461,Access to electricity (% of urban population with access),Urban Pop,Chad,TCD,17.51280721,18.0172302,18.11160111,18.93278338,19.3545769,19.75884864,20.15077314
+462,Access to electricity (% of urban population with access),Urban Pop,Channel Islands,CHI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+463,Access to electricity (% of urban population with access),Urban Pop,Chile,CHL,99.73617385,99.82916543,99.9239946,99.81632599,99.99508265,99.79422485,100.0
+464,Access to electricity (% of urban population with access),Urban Pop,China,CHN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+465,Access to electricity (% of urban population with access),Urban Pop,Colombia,COL,100.0,99.94760556,100.0,100.0,99.9926532,100.0,100.0
+466,Access to electricity (% of urban population with access),Urban Pop,Comoros,COM,83.84602547,85.94652667,88.01752693,90.06580282,89.58507231,94.10411976,96.10341847
+467,Access to electricity (% of urban population with access),Urban Pop,"Congo, Dem. Rep.",ZAR,28.56547266,29.80156414,30.99973179,32.16198228,36.16483519,34.39305868,31.60830962
+468,Access to electricity (% of urban population with access),Urban Pop,"Congo, Rep.",COG,51.63672308,53.51812436,54.78829926,56.33160591,58.34585748,59.35496175,60.83624576
+469,Access to electricity (% of urban population with access),Urban Pop,Cook Islands,COK,98.86237038,99.94663084,100.0,100.0,100.0,100.0,100.0
+470,Access to electricity (% of urban population with access),Urban Pop,Costa Rica,CRI,99.6968221,99.72996647,99.49272769,99.6963972,99.78988999,99.77814476,99.65911842
+471,Access to electricity (% of urban population with access),Urban Pop,Cote d'Ivoire,CIV,99.6968221,99.72996647,99.49272769,99.6963972,99.78988999,99.77814476,99.65911842
+472,Access to electricity (% of urban population with access),Urban Pop,Croatia,HRV,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+473,Access to electricity (% of urban population with access),Urban Pop,Cuba,CUB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+474,Access to electricity (% of urban population with access),Urban Pop,Curacao,CUW,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+475,Access to electricity (% of urban population with access),Urban Pop,Cyprus,CYP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+476,Access to electricity (% of urban population with access),Urban Pop,Czech Republic,CZE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+477,Access to electricity (% of urban population with access),Urban Pop,Denmark,DNK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+478,Access to electricity (% of urban population with access),Urban Pop,Djibouti,DJI,63.0928447,62.14483064,61.19792216,60.25254309,59.30660223,58.36029552,57.41176368
+479,Access to electricity (% of urban population with access),Urban Pop,Dominican Republic,DOM,99.2925351,99.35571532,99.38032801,99.19905724,99.01912183,99.32527629,99.26618344
+480,Access to electricity (% of urban population with access),Urban Pop,Ecuador,ECU,100.0,99.65838569,100.0,100.0,100.0,99.94867666,100.0
+481,Access to electricity (% of urban population with access),Urban Pop,"Egypt, Arab Rep.",EGY,100.0,100.0,100.0,100.0,100.0,100.0,99.8
+482,Access to electricity (% of urban population with access),Urban Pop,El Salvador,SLV,97.74337787,97.19327277,97.18125712,97.33227254,97.93925033,97.66731371,97.60223259
+483,Access to electricity (% of urban population with access),Urban Pop,Equatorial Guinea,GNQ,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+484,Access to electricity (% of urban population with access),Urban Pop,Eritrea,ERI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+485,Access to electricity (% of urban population with access),Urban Pop,Estonia,EST,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+486,Access to electricity (% of urban population with access),Urban Pop,Ethiopia,ETH,93.81999118,94.29216236,94.70226655,100.0,95.40747961,95.733446,91.0311941
+487,Access to electricity (% of urban population with access),Urban Pop,Faeroe Islands,FRO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+488,Access to electricity (% of urban population with access),Urban Pop,Fiji,FJI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+489,Access to electricity (% of urban population with access),Urban Pop,Finland,FIN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+490,Access to electricity (% of urban population with access),Urban Pop,France,FRA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+491,Access to electricity (% of urban population with access),Urban Pop,French Polynesia,PYF,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+492,Access to electricity (% of urban population with access),Urban Pop,Gabon,GAB,91.29830363,92.11994261,92.96887877,93.84408862,96.30852574,93.94412265,96.59409662
+493,Access to electricity (% of urban population with access),Urban Pop,"Gambia, The",GMB,60.0740388,61.97485099,63.83728842,65.66684474,67.46758191,67.03460188,70.99696169
+494,Access to electricity (% of urban population with access),Urban Pop,Georgia,GEO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+495,Access to electricity (% of urban population with access),Urban Pop,Germany,DEU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+496,Access to electricity (% of urban population with access),Urban Pop,Ghana,GHA,83.38652178,84.37038142,85.60901528,85.91696856,88.17696663,90.50765212,91.65597923
+497,Access to electricity (% of urban population with access),Urban Pop,Gibraltar,GIB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+498,Access to electricity (% of urban population with access),Urban Pop,Greece,GRC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+499,Access to electricity (% of urban population with access),Urban Pop,Greenland,GRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+500,Access to electricity (% of urban population with access),Urban Pop,Guam,GUM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+501,Access to electricity (% of urban population with access),Urban Pop,Guatemala,GTM,95.02180112,95.48098274,95.95896837,96.05163893,96.97345385,97.51069838,95.70626852
+502,Access to electricity (% of urban population with access),Urban Pop,Guinea,GIN,62.17485764,63.34299253,64.46382544,65.53726853,68.07846568,67.55976429,68.51413616
+503,Access to electricity (% of urban population with access),Urban Pop,Guinea-Bissau,GNB,2.256992823,6.712053341,9.028403248,16.11164293,20.41266071,24.57934885,31.18846741
+504,Access to electricity (% of urban population with access),Urban Pop,Guyana,GUY,91.4341691,91.08032983,90.64681361,90.22966901,89.80367396,89.37494357,94.19011251
+505,Access to electricity (% of urban population with access),Urban Pop,Haiti,HTI,59.37675923,58.00212259,56.79301029,55.73362995,56.59239011,54.00675085,53.31410252
+506,Access to electricity (% of urban population with access),Urban Pop,Honduras,HND,97.16035499,96.54933183,96.97727062,97.17808417,96.40532281,97.08046667,99.10344549
+507,Access to electricity (% of urban population with access),Urban Pop,"Hong Kong SAR, China",HKG,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+508,Access to electricity (% of urban population with access),Urban Pop,Hungary,HUN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+509,Access to electricity (% of urban population with access),Urban Pop,Iceland,ISL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+510,Access to electricity (% of urban population with access),Urban Pop,India,IND,94.71450917,95.42426521,99.97093438,93.52860984,95.46247983,97.64445415,98.26935731
+511,Access to electricity (% of urban population with access),Urban Pop,Indonesia,IDN,100.0,98.78010745,98.92449243,99.13560497,98.92082037,99.37808189,99.42178499
+512,Access to electricity (% of urban population with access),Urban Pop,"Iran, Islamic Rep.",IRN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+513,Access to electricity (% of urban population with access),Urban Pop,Iraq,IRQ,100.0,100.0,100.0,99.74971967,100.0,100.0,99.98797431
+514,Access to electricity (% of urban population with access),Urban Pop,Ireland,IRL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+515,Access to electricity (% of urban population with access),Urban Pop,Isle of Man,IMY,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+516,Access to electricity (% of urban population with access),Urban Pop,Israel,ISR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+517,Access to electricity (% of urban population with access),Urban Pop,Italy,ITA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+518,Access to electricity (% of urban population with access),Urban Pop,Jamaica,JAM,99.10032881,93.16392747,93.37495889,87.57954268,93.82923967,94.23243822,94.67957394
+519,Access to electricity (% of urban population with access),Urban Pop,Japan,JPN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+520,Access to electricity (% of urban population with access),Urban Pop,Jordan,JOR,99.52107838,99.55816513,99.59282972,99.66333433,99.52052549,99.88089899,100.0
+521,Access to electricity (% of urban population with access),Urban Pop,Kazakhstan,KAZ,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+522,Access to electricity (% of urban population with access),Urban Pop,Kenya,KEN,75.70412622,72.37123548,59.73126532,80.4845948,81.93940379,83.33689496,100.0
+523,Access to electricity (% of urban population with access),Urban Pop,Kiribati,KIR,85.48591672,80.79331301,87.49633148,83.24346036,82.44960497,81.6266338,80.77883727
+524,Access to electricity (% of urban population with access),Urban Pop,"Korea, Rep.",KOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+525,Access to electricity (% of urban population with access),Urban Pop,Kuwait,KWT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+526,Access to electricity (% of urban population with access),Urban Pop,Kyrgyz Republic,KGZ,100.0,100.0,98.4869104,99.99457482,99.8,99.64227652,99.98101724
+527,Access to electricity (% of urban population with access),Urban Pop,Lao PDR,LAO,95.15441335,90.31622285,90.91066952,90.17108058,92.54557332,93.56498434,94.70603428
+528,Access to electricity (% of urban population with access),Urban Pop,Latvia,LVA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+529,Access to electricity (% of urban population with access),Urban Pop,Lebanon,LBN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+530,Access to electricity (% of urban population with access),Urban Pop,Lesotho,LSO,45.94996447,51.34402325,54.61777829,58.72110733,62.68568761,66.5276542,71.52598415
+531,Access to electricity (% of urban population with access),Urban Pop,Liberia,LBR,4.837081423,3.451033698,8.93800617,7.435808674,12.91780227,18.77936318,16.78025829
+532,Access to electricity (% of urban population with access),Urban Pop,Libya,LBY,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+533,Access to electricity (% of urban population with access),Urban Pop,Liechtenstein,LIE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+534,Access to electricity (% of urban population with access),Urban Pop,Lithuania,LTU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+535,Access to electricity (% of urban population with access),Urban Pop,Luxembourg,LUX,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+536,Access to electricity (% of urban population with access),Urban Pop,"Macao SAR, China",MAC,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+537,Access to electricity (% of urban population with access),Urban Pop,"Macedonia, FYR",MKD,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+538,Access to electricity (% of urban population with access),Urban Pop,Madagascar,MDG,31.55790509,37.5948498,30.42141396,24.44821501,29.40439415,22.28775147,28.51724343
+539,Access to electricity (% of urban population with access),Urban Pop,Malawi,MWI,35.86443987,36.71775083,36.96202835,32.9070194,34.58256584,38.52292603,49.41493622
+540,Access to electricity (% of urban population with access),Urban Pop,Malaysia,MYS,99.45897425,99.85515516,99.78488429,99.93721374,99.98940794,100.0,100.0
+541,Access to electricity (% of urban population with access),Urban Pop,Maldives,MDV,87.90225826,100.0,94.14214077,96.69683683,98.57144197,99.58193701,100.0
+542,Access to electricity (% of urban population with access),Urban Pop,Mali,MLI,44.02528333,45.29896624,46.54310016,47.76432896,48.35652927,50.15572691,51.3323868
+543,Access to electricity (% of urban population with access),Urban Pop,Malta,MLT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+544,Access to electricity (% of urban population with access),Urban Pop,Marshall Islands,MHL,90.16891799,90.66492153,91.19226604,92.37212914,92.33940538,92.95452735,93.59508323
+545,Access to electricity (% of urban population with access),Urban Pop,Mauritania,MRT,52.33747858,52.09966461,54.02960746,55.93190643,57.80721315,59.65948114,63.89818506
+546,Access to electricity (% of urban population with access),Urban Pop,Mauritius,MUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+547,Access to electricity (% of urban population with access),Urban Pop,Mexico,MEX,99.79235908,99.65792712,99.72639351,99.78354556,99.63973728,99.94108911,99.61148721
+548,Access to electricity (% of urban population with access),Urban Pop,"Micronesia, Fed. Sts.",FSM,100.0,96.78843849,85.21908233,80.80380049,72.78676621,64.78420263,56.81825512
+549,Access to electricity (% of urban population with access),Urban Pop,Moldova,MDA,99.7156995,99.71660773,99.82928214,99.93914296,99.98902967,99.999405,100.0
+550,Access to electricity (% of urban population with access),Urban Pop,Monaco,MCO,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+551,Access to electricity (% of urban population with access),Urban Pop,Mongolia,MNG,88.85928437,90.89225609,92.81161,94.62635629,96.35564629,93.49732182,99.5971636
+552,Access to electricity (% of urban population with access),Urban Pop,Montenegro,MNE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+553,Access to electricity (% of urban population with access),Urban Pop,Morocco,MAR,95.00388776,95.7643337,96.56851239,97.41562159,98.30389051,99.23257271,96.32548953
+554,Access to electricity (% of urban population with access),Urban Pop,Mozambique,MOZ,40.66298926,40.2286862,45.22180979,52.86784572,49.57265,51.67337415,53.72737351
+555,Access to electricity (% of urban population with access),Urban Pop,Myanmar,MMR,88.89866932,83.54856946,80.47099112,73.5730321,68.94018352,64.53679998,57.94161139
+556,Access to electricity (% of urban population with access),Urban Pop,Namibia,NAM,84.4712403,84.15425929,83.86799169,83.62068791,83.40866792,80.707247,83.18230028
+557,Access to electricity (% of urban population with access),Urban Pop,Nepal,NPL,89.63120407,91.80055294,94.00985142,92.70659368,98.58140997,100.0,99.24097428
+558,Access to electricity (% of urban population with access),Urban Pop,Netherlands,NLD,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+559,Access to electricity (% of urban population with access),Urban Pop,New Caledonia,NCL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+560,Access to electricity (% of urban population with access),Urban Pop,New Zealand,NZL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+561,Access to electricity (% of urban population with access),Urban Pop,Nicaragua,NIC,98.68847107,100.0,99.02638738,99.19506529,99.36372757,99.53240275,99.41187135
+562,Access to electricity (% of urban population with access),Urban Pop,Niger,NER,50.2891013,50.97401599,51.58861863,58.27291738,56.35089112,53.07891455,53.48347666
+563,Access to electricity (% of urban population with access),Urban Pop,Nigeria,NGA,76.7215674,77.05457351,65.02879477,81.48530285,77.729352,80.39297109,78.39011354
+564,Access to electricity (% of urban population with access),Urban Pop,Northern Mariana Islands,MNP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+565,Access to electricity (% of urban population with access),Urban Pop,Norway,NOR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+566,Access to electricity (% of urban population with access),Urban Pop,Oman,OMN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+567,Access to electricity (% of urban population with access),Urban Pop,Pakistan,PAK,97.86428974,97.12734732,98.64989668,97.27660437,99.55882795,98.68806125,100.0
+568,Access to electricity (% of urban population with access),Urban Pop,Palau,PLW,98.91031075,98.93387271,98.9661077,99.0055338,97.87380392,99.09966214,99.99995061
+569,Access to electricity (% of urban population with access),Urban Pop,Panama,PAN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+570,Access to electricity (% of urban population with access),Urban Pop,Papua New Guinea,PNG,72.0699291,72.89110071,89.65137726,74.41429693,75.13386108,75.77761023,76.35489069
+571,Access to electricity (% of urban population with access),Urban Pop,Paraguay,PRY,99.1517481,98.53560978,99.67574501,99.63127357,99.71117476,99.79065831,99.85715348
+572,Access to electricity (% of urban population with access),Urban Pop,Peru,PER,95.47865016,96.00988459,96.98809196,97.20012796,97.60020637,97.94372124,98.028077
+573,Access to electricity (% of urban population with access),Urban Pop,Philippines,PHL,95.72926859,95.75291941,96.12916266,96.47208911,96.78485967,94.94296825,97.33420295
+574,Access to electricity (% of urban population with access),Urban Pop,Poland,POL,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+575,Access to electricity (% of urban population with access),Urban Pop,Portugal,PRT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+576,Access to electricity (% of urban population with access),Urban Pop,Puerto Rico,PRI,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+577,Access to electricity (% of urban population with access),Urban Pop,Qatar,QAT,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+578,Access to electricity (% of urban population with access),Urban Pop,Romania,ROM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+579,Access to electricity (% of urban population with access),Urban Pop,Russian Federation,RUS,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+580,Access to electricity (% of urban population with access),Urban Pop,Rwanda,RWA,20.15458363,33.20749487,27.79759132,35.80391117,34.13588844,35.61321177,47.53253079
+581,Access to electricity (% of urban population with access),Urban Pop,Samoa,WSM,88.53735288,91.97015569,95.44956608,98.77285294,100.0,100.0,99.15764703
+582,Access to electricity (% of urban population with access),Urban Pop,San Marino,SMR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+583,Access to electricity (% of urban population with access),Urban Pop,Sao Tome and Principe,STP,67.42873082,64.95669557,68.6158705,69.23838059,66.37751111,70.53337016,76.19171623
+584,Access to electricity (% of urban population with access),Urban Pop,Saudi Arabia,SAU,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+585,Access to electricity (% of urban population with access),Urban Pop,Senegal,SEN,90.37792496,90.9591671,93.38371063,96.95790222,96.28201293,95.97884402,97.91788879
+586,Access to electricity (% of urban population with access),Urban Pop,Serbia,SRB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+587,Access to electricity (% of urban population with access),Urban Pop,Seychelles,SYC,100.0,100.0,100.0,100.0,100.0,98.96759563,100.0
+588,Access to electricity (% of urban population with access),Urban Pop,Sierra Leone,SLE,29.82342825,35.95616939,35.07217737,36.36645281,33.30567294,33.33142105,31.55575296
+589,Access to electricity (% of urban population with access),Urban Pop,Singapore,SGP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+590,Access to electricity (% of urban population with access),Urban Pop,Sint Maarten (Dutch part),SXM,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+591,Access to electricity (% of urban population with access),Urban Pop,Slovak Republic,SVK,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+592,Access to electricity (% of urban population with access),Urban Pop,Slovenia,SVN,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+593,Access to electricity (% of urban population with access),Urban Pop,Solomon Islands,SLB,45.54145437,20.21215733,42.89577365,41.79472702,40.83988747,57.17231899,39.35525177
+594,Access to electricity (% of urban population with access),Urban Pop,Somalia,SOM,26.30674154,27.15697989,27.99823842,28.83291308,29.66259444,30.48918417,31.31461915
+595,Access to electricity (% of urban population with access),Urban Pop,South Africa,ZAF,95.88554274,95.68613635,94.55045616,96.93077754,95.5798865,94.40576662,94.06103078
+596,Access to electricity (% of urban population with access),Urban Pop,South Sudan,SSD,8.318581311,14.16008751,5.180536694,9.283961763,8.975951936,8.675597433,8.390633168
+597,Access to electricity (% of urban population with access),Urban Pop,Spain,ESP,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+598,Access to electricity (% of urban population with access),Urban Pop,Sri Lanka,LKA,89.85284905,91.2229033,90.64986042,94.94349025,95.1888011,96.45027322,97.76401632
+599,Access to electricity (% of urban population with access),Urban Pop,St. Kitts and Nevis,KNA,93.87182297,95.07307517,96.28330965,97.46686378,98.56051835,99.41003822,100.0
+600,Access to electricity (% of urban population with access),Urban Pop,St. Lucia,LCA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+601,Access to electricity (% of urban population with access),Urban Pop,St. Vincent and the Grenadines,VCT,94.43148472,95.90444841,97.37246669,98.83675356,100.0,100.0,100.0
+602,Access to electricity (% of urban population with access),Urban Pop,Sudan,SDN,66.72642686,57.43710073,65.83689577,65.35467054,64.85257246,64.33625371,70.95883957
+603,Access to electricity (% of urban population with access),Urban Pop,Suriname,SUR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+604,Access to electricity (% of urban population with access),Urban Pop,Swaziland,SWZ,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+605,Access to electricity (% of urban population with access),Urban Pop,Sweden,SWE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+606,Access to electricity (% of urban population with access),Urban Pop,Switzerland,CHE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+607,Access to electricity (% of urban population with access),Urban Pop,Syrian Arab Republic,SYR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+608,Access to electricity (% of urban population with access),Urban Pop,Tajikistan,TJK,99.99048635,99.24806782,100.0,100.0,99.92917807,100.0,100.0
+609,Access to electricity (% of urban population with access),Urban Pop,Tanzania,TZA,37.20606407,35.52891755,43.18210954,39.1718799,43.27043015,44.60270361,41.15560957
+610,Access to electricity (% of urban population with access),Urban Pop,Thailand,THA,97.59520382,100.0,100.0,100.0,100.0,100.0,100.0
+611,Access to electricity (% of urban population with access),Urban Pop,Timor-Leste,TMP,77.86434903,74.82138856,71.44641444,69.42627693,67.07641,64.95156234,63.03563019
+612,Access to electricity (% of urban population with access),Urban Pop,Togo,TGO,43.68807157,44.44918447,45.24699984,0.0,46.95784175,47.87212726,90.78883097
+613,Access to electricity (% of urban population with access),Urban Pop,Tonga,TON,92.08460124,94.69945777,97.28395696,97.31250875,97.68342337,100.0,100.0
+614,Access to electricity (% of urban population with access),Urban Pop,Trinidad and Tobago,TTO,99.75540183,100.0,100.0,100.0,100.0,100.0,100.0
+615,Access to electricity (% of urban population with access),Urban Pop,Tunisia,TUN,100.0,100.0,99.95107553,99.82529892,99.69747963,99.87066524,99.89386282
+616,Access to electricity (% of urban population with access),Urban Pop,Turkey,TUR,98.84039201,99.31665215,100.0,99.89271197,99.98604418,99.99985241,100.0
+617,Access to electricity (% of urban population with access),Urban Pop,Turkmenistan,TKM,99.96586761,99.94276646,100.0,99.99840229,100.0,100.0,100.0
+618,Access to electricity (% of urban population with access),Urban Pop,Turks and Caicos Islands,TCA,93.06476427,93.3039747,93.54590224,93.79309306,92.42494922,94.2948966,94.54126386
+619,Access to electricity (% of urban population with access),Urban Pop,Tuvalu,TUV,97.59863381,97.90409658,98.20939027,98.51530468,98.47447111,99.13041953,99.44064687
+620,Access to electricity (% of urban population with access),Urban Pop,Uganda,UGA,58.46275193,50.51968102,59.19823705,68.13783308,59.73565403,54.52631027,74.3619076
+621,Access to electricity (% of urban population with access),Urban Pop,Ukraine,UKR,99.7915693,99.95275482,99.99502378,100.0,100.0,100.0,100.0
+622,Access to electricity (% of urban population with access),Urban Pop,United Arab Emirates,ARE,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+623,Access to electricity (% of urban population with access),Urban Pop,United Kingdom,GBR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+624,Access to electricity (% of urban population with access),Urban Pop,United States,USA,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+625,Access to electricity (% of urban population with access),Urban Pop,Uruguay,URY,99.413121,99.38357727,99.46341202,99.43936635,99.6536986,99.74746011,99.76948873
+626,Access to electricity (% of urban population with access),Urban Pop,Uzbekistan,UZB,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+627,Access to electricity (% of urban population with access),Urban Pop,Vanuatu,VUT,80.99829132,82.91534224,87.84606468,91.10726732,94.27454869,99.45232049,100.0
+628,Access to electricity (% of urban population with access),Urban Pop,"Venezuela, RB",VEN,99.3894009,99.47968127,99.57569782,99.63609412,99.77897536,99.88307168,99.98680384
+629,Access to electricity (% of urban population with access),Urban Pop,Vietnam,VNM,99.01730425,99.64066124,100.0,100.0,100.0,100.0,99.81044277
+630,Access to electricity (% of urban population with access),Urban Pop,Virgin Islands (U.S.),VIR,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+631,Access to electricity (% of urban population with access),Urban Pop,West Bank and Gaza,WBG,99.4516449,99.59689331,99.96977443,99.92842102,100.0,100.0,99.86671287
+632,Access to electricity (% of urban population with access),Urban Pop,"Yemen, Rep.",YEM,93.2776788,93.90004604,94.54108429,95.20462217,95.89383638,96.29118118,97.35088602
+633,Access to electricity (% of urban population with access),Urban Pop,Zambia,ZMB,51.8705473,52.17480554,51.90568337,52.74911721,53.01830299,53.27631237,63.3473408
+634,Access to electricity (% of urban population with access),Urban Pop,Zimbabwe,ZWE,85.25164863,85.68494624,86.10955874,84.78265482,86.93582484,87.3415161,79.02864378
